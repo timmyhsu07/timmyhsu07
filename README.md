@@ -76,7 +76,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">My (unlocked in) stats</h3>
+<h3 data-importer="text" align="left">My GitHub Stats</h3>
 
 ###
 
