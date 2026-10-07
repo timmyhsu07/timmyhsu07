@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/9CDjWThnGKXAVnTTRC/giphy.gif"  />
+  <img data-importer="image" height="150" src="assets/header.gif" alt="Animated profile header"  />
 </div>
 
 ###
