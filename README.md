@@ -9,14 +9,14 @@ Honors Computer Science and Mathematics student at Rutgers University–New Brun
 **[TimothyHsu.dev](https://timothyhsu.dev)**  
 My site. More about my work and interests.
 
-**Machine learning interpretability**  
-Research on making machine learning models easier to understand.
+**GLIMPSE**  
+Geometric Lens for Inspecting the Multiplicity of Sets and Explanations. An interactive tool for comparing equally accurate models, visualizing their disagreements, and exploring changes that would flip a prediction.
 
-**Biomedical computer vision**  
-Computer vision pipelines for biomedical applications.
+**Scarlet Market**  
+A prediction market for friend groups and campus organizations. Trade tokens on local yes/no questions, with a separate token economy for each group.
 
-**Quantitative backtesting**  
-Backtesting systems for quantitative finance.
+**Kara Remote Pilot**  
+Building a browser-based platform for Kara Lab researchers to configure microscopy analyses, review results, and launch batch jobs remotely while images and computation stay on the lab workstation. Early prototype.
 
 ## Elsewhere
 
